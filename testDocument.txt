@@ -1,0 +1,21 @@
+hello there
+random text here
+111-111-1112
+222 222 2222
+222.233.3333
+
+aasd@jotml.com
+basd@hotmai.com
+
+
+aa@e.net
+.@as.ca
+continuous integration testing. junit.
+every time theres a build, automated test.
+
+interview: how regression testing is done. 30 minutes long
+summer internship works
+doesnt need to be a regression testing engineer.
+what tools they have when the builds are run.
+
+
